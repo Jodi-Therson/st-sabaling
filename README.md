@@ -13,6 +13,10 @@ GEMINI_API_KEY="YOUR_GEMINI_API_KEY"
 ```
 
 ## Add the folder data/ to insert the pdfs
+```
+data
+└───yourpdf.pdf
+```
 
 ## Running the Streamlit
 ```
