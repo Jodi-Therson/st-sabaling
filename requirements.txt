@@ -1,0 +1,8 @@
+streamlit
+google-generativeai
+pandas
+langchain-text-splitters
+scikit-learn
+numpy
+PyMuPDF
+python-dotenv
